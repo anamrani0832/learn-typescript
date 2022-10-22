@@ -31,3 +31,8 @@ var obj2 = {
 obj1 = obj2;
 // obj2 = obj1;
 // function
+let ag = 30;
+if (ag < 50) {
+    ag += 10;
+}
+//# sourceMappingURL=variables.js.map

@@ -31,3 +31,7 @@ obj1 = obj2;
 // obj2 = obj1;
 
 // function
+let ag:number = 30;
+if(ag <50) {
+    ag +=10;
+}
